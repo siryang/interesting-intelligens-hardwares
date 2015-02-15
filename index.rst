@@ -11,8 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   preface.rst
+   watches.rst
+   virtual_reality.rst
    gadgets.rst
-
 
 Indices and tables
 ==================
