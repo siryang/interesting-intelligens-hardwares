@@ -14,6 +14,8 @@ Contents:
    preface.rst
    watches.rst
    virtual_reality.rst
+   smart_home.rst
+   vehicle_system.rst
    gadgets.rst
 
 Indices and tables
